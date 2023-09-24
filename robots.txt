@@ -1,0 +1,6 @@
+
+# Example
+User-agent: * 
+# Allow: /
+# Disallow: /search.php
+Disallow: /
